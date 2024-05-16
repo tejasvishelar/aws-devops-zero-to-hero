@@ -28,4 +28,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: aws-devops-zero-to-hero/day-14/simple-python-app
+  base-directory: 'simple-python-app'
